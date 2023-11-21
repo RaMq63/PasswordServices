@@ -68,8 +68,8 @@ public static void printPasswords(String[] passwords){
     System.out.println();
 }
 
-public static void printPasswords(String[] passwords, int[] scores){ 
-} 
+//public static void printPasswords(String[] passwords, int[] scores){ 
+//} 
 
 //method checkStrength calculates and returns the score of the given password
 public static int checkStrength(String password){
